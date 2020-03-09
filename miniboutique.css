@@ -1,0 +1,165 @@
+body{background-color:#BC793B;}
+header{
+	background-color:black;
+	border-radius:10px;
+	display:block;
+	margin-top:5px;
+	margin-left:20px;
+	float:center;
+	width:2500px;
+	height:100px;
+}
+table, th, td {border: 1px solid black;}
+table{
+	width:90%;
+	height:90%;
+}
+a{
+	color:white;
+	text-decoration:none;
+}
+.black{color:black;}
+a:hover, a.black:hover{color:pink;}
+div.header_left{
+	border-radius:10px;
+	height:100%;
+	width:1700px;
+	display:block;
+	float:left;
+}
+div.header_center_left{
+	border-radius:10px;
+	height:100%;
+	width:50%;
+	display:block;
+	float:left;
+}
+div.header_center{
+	border-radius:10px;
+	height:100%;
+	width:50%;
+	display:block;
+	float:right;
+}
+div.header_right{
+	border-radius:10px;
+	height:100%;
+	width:800px;
+	display:block;
+	float:right;
+}
+.header{
+	text-align:center;
+	color:white;
+}
+.margin_all{
+	padding-right:1%;
+	text-decoration:none;
+	color:white;
+}
+.margin_top{margin-top:-1.75%;}
+.margin_top_bis{margin-top:4%;}
+div.center{
+	background-color:rgba(90,90,90,0.4);
+	border-radius:10px;
+	display:block;
+	margin-top:10px;
+	margin-left:270px;
+	float:center;
+	width:2000px;
+	height:1200px;
+}
+.suscribe{
+	width:60%;
+	height:8%;
+	font-size:30px;
+	display:block;
+	float:right;
+	margin-top:20%;
+}
+.suscribe_input{
+	border-radius:10px;
+	width:125px;
+	height:40px;
+	font-size:60%;
+	margin-top:10px;
+	padding-bottom:5px;
+}
+.menu{
+	background-color:black;
+	border-radius:10px;
+	width:10%;
+	height:75%;
+	display:block;
+	float:left;
+	margin-top:5%;
+}
+.list_menu{
+	color:white;
+	font-size:20px;
+	list-style:none;
+	padding-top:15%;
+	padding-bottom:15%;
+}
+.ul_menu{
+	width:80%;
+	height:90%;
+	margin-top:20%;
+}
+.boutique{
+	display:block;
+	float:right;
+	width:80%;
+	height:75%;
+	margin-top:5%;
+	margin-right:5%;
+}
+.articles{
+	text-align:center;
+	font-size:30px;
+}
+.large{
+	border-radius:10px;
+	width:160px;
+	height:40px;
+	font-size:100%;
+	margin-top:10px;
+	padding-bottom:5px;
+}
+.error{color:maroon;}
+.list_menu_admin{
+	color:white;
+	font-size:20px;
+	list-style:none;
+	padding-top:50%;
+	padding-bottom:50%;
+}
+.suscribe_input_long{
+	border-radius:10px;
+	width:170px;
+	height:40px;
+	font-size:60%;
+	margin-top:10px;
+	padding-bottom:5px;
+}
+.suscribe_input_medium{
+	border-radius:10px;
+	width:180px;
+	height:40px;
+	font-size:60%;
+	margin-top:10px;
+	padding-bottom:5px;
+}
+.suscribe_input_extra{
+	border-radius:10px;
+	width:240px;
+	height:40px;
+	font-size:60%;
+	margin-top:10px;
+	padding-bottom:5px;
+}
+.title{
+	color:white;
+	text-align:center;
+	font-size:30px;
+}
